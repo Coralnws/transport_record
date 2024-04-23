@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>bg.png</file>
+    <file>button.jpg</file>
+    <file>blackclose.png</file>
+    <file>file_pic.png</file>
+    <file>records_pic.png</file>
+    <file>coin.png</file>
+    <file>file.png</file>
+    <file>file2.jpg</file>
+    <file>file3.png</file>
+    <file>RECORD_TEXT.png</file>
+    <file>record_new_button.png</file>
+
+
+
+</qresource>
+</RCC>
